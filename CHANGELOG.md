@@ -1,6 +1,9 @@
 # Changelog
 
 ## Unreleased
+### Known Issue
+- The TFG Shader may encounter issue on the Moon
+- If you are a Mac user and encounter a crash when loading the game, remove Supplemental Mod and don't use TFG Shader
 ### Changes
 - All the recipes for the chromium lines are unlocked at MV and some durations were reduced @TomPlop
 - The Geologic Vulcanizer outputs are more accurate and distilled water and natural gas cost were lowered @TomPlop
@@ -38,6 +41,7 @@
 - Fixed food processor recipes involving jam not outputting empty jam jars (#4341) @Redeix
 ### Mods
 - *Create Fluid Logistics*: Added phantom chains and fluid repackager
+- *Firmalife*: New visual indications regarding the oven when you burn something and infos on temperature are better convey to the player
 
 ## [0.13.1] - 23-06-2026
 ### Changes
