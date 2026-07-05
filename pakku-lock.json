@@ -11260,7 +11260,7 @@
             ]
         },
         {
-            "pakku_id": "vLkSeib1zFzTMcPF",
+            "pakku_id": "lDkGabwR4WOiaG6S",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -11277,29 +11277,8 @@
             },
             "files": [
                 {
-                    "type": "modrinth",
-                    "file_name": "modernfix-forge-5.27.58+mc1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/JUhfu5Dq/modernfix-forge-5.27.58+mc1.20.1.jar",
-                    "id": "JUhfu5Dq",
-                    "parent_id": "nmDcB62a",
-                    "hashes": {
-                        "sha512": "4b5b08d5738e22aae83f40e023c01f1886d437710086ae717f2051daa8534255b0e57e90b59062baa891342aca56414f64256a524d0430ea0be35d0bb03101ed",
-                        "sha1": "dd78e4110f40fa2c072cc6c1b3d8a06af906cf00"
-                    },
-                    "required_dependencies": [],
-                    "size": 990660,
-                    "date_published": "2026-06-28T17:14:48.154603Z"
-                },
-                {
                     "type": "curseforge",
-                    "file_name": "modernfix-forge-5.27.58+mc1.20.1.jar",
+                    "file_name": "modernfix-forge-5.27.51+mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -11307,16 +11286,37 @@
                         "forge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/8335/833/modernfix-forge-5.27.58+mc1.20.1.jar",
-                    "id": "8335833",
+                    "url": "https://edge.forgecdn.net/files/8255/312/modernfix-forge-5.27.51+mc1.20.1.jar",
+                    "id": "8255312",
                     "parent_id": "790626",
                     "hashes": {
-                        "sha1": "dd78e4110f40fa2c072cc6c1b3d8a06af906cf00",
-                        "md5": "bcadcedf354a182b68cbdc26ce87ce0c"
+                        "sha1": "1f69aa3406e24c645d4b9df25c35a6e4deb66527",
+                        "md5": "cbfd7febe91877849117fff48d0b5969"
                     },
                     "required_dependencies": [],
-                    "size": 990660,
-                    "date_published": "2026-06-28T17:14:47.667Z"
+                    "size": 982465,
+                    "date_published": "2026-06-15T23:03:10.743Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "modernfix-forge-5.27.51+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/5Uz1QIVU/modernfix-forge-5.27.51+mc1.20.1.jar",
+                    "id": "5Uz1QIVU",
+                    "parent_id": "nmDcB62a",
+                    "hashes": {
+                        "sha512": "72bf02d4253df106c29414592065cb5a341908a54c3bf8048c5204cf194fbea366b5319539d7ee98b3f2b92e597d28911ebe9322adc66ffd6d07163eba06b764",
+                        "sha1": "1f69aa3406e24c645d4b9df25c35a6e4deb66527"
+                    },
+                    "required_dependencies": [],
+                    "size": 982465,
+                    "date_published": "2026-06-15T23:03:11.404115Z"
                 }
             ]
         },
