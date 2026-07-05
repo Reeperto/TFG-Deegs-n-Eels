@@ -6,6 +6,7 @@
 - Hotfix for 0.13.2 to fix some key progression issues caused by recent versions of the modernFix mod. Read more about 0.13.2 changes [here](https://github.com/TerraFirmaGreg-Team/Modpack-Modern/releases/tag/0.13.2).
 ### Bug fixes
 - Downgraded modernfix to version 5.27.51 to fix several issues including item stacking not working and wooden buckets not working.
+- Downgraded TooManyRecipeViewers to version 0.8.1 to fix lag when viewing recipes.
 - Temporarly downgraded TFG shaders to version 3.1.6 to fix some crashes until the issue can be resolved.
 
 ## [0.13.2] - 05-07-2026
