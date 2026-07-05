@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased
+## [0.13.2] - 05-07-2026
 ### Known Issue
 - The TFG Shader may encounter issue on the Moon
 - If you are a Mac user and encounter a crash when loading the game, remove Supplemental Mod and don't use TFG Shader
