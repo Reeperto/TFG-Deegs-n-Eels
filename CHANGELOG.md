@@ -5,6 +5,7 @@
 - The TFG Shader may encounter issue on the Moon
 - If you are a Mac user and encounter a crash when loading the game, remove Supplemental Mod and don't use TFG Shader
 ### Changes
+- If you throw your javelin while having a Firmaciv rope in off-hand, it will come back to you but with a limited range @Redeix
 - All the recipes for the chromium lines are unlocked at MV and some durations were reduced @TomPlop
 - The Geologic Vulcanizer outputs are more accurate and distilled water and natural gas cost were lowered @TomPlop
 - Blue steel lamps are now heatproof, so you don't get burnt on the safely-contained lava inside (#4353) @hollow-earth
