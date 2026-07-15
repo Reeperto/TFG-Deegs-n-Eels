@@ -2,8 +2,9 @@ name: "Project Build"
 run-name: "[📦]: Project Build #${{ github.run_number }}"
 on:
   push:
+    tags:
+      - 'v*'
     branches:
-      - dev
       - main
     paths:
       - '.pakku'
